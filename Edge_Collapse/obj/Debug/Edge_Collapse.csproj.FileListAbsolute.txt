@@ -1,6 +1,0 @@
-C:\Users\HOLOARCH2\source\repos\Edge_Collapse\Edge_Collapse\bin\Debug\Edge_Collapse.exe.config
-C:\Users\HOLOARCH2\source\repos\Edge_Collapse\Edge_Collapse\bin\Debug\Edge_Collapse.exe
-C:\Users\HOLOARCH2\source\repos\Edge_Collapse\Edge_Collapse\bin\Debug\Edge_Collapse.pdb
-C:\Users\HOLOARCH2\source\repos\Edge_Collapse\Edge_Collapse\obj\Debug\Edge_Collapse.csproj.CoreCompileInputs.cache
-C:\Users\HOLOARCH2\source\repos\Edge_Collapse\Edge_Collapse\obj\Debug\Edge_Collapse.exe
-C:\Users\HOLOARCH2\source\repos\Edge_Collapse\Edge_Collapse\obj\Debug\Edge_Collapse.pdb
