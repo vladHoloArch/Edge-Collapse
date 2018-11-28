@@ -1,0 +1,12 @@
+*.xml
+*.obj
+*.ifc
+*.vs
+*.mtl
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+# Build results
+C:\Users\HOLOARCH2\source\repos\Edge_Collapse\Edge_Collapse\obj
+C:\Users\HOLOARCH2\source\repos\Edge_Collapse\Edge_Collapse\bin
